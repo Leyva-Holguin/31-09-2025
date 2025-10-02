@@ -1,6 +1,6 @@
 # Formulario  
 ## Objetivo:
-Crear un formulario en html recreando el diseño del formulario de crecion de cuenta nueva de Facebook  
+Crear un formulario en html recreando el diseño del formulario de creación de cuenta nueva de Facebook  
 
 ## Datos personales : 
 - Nombre: Daniel Ivan leyva Holguin  
